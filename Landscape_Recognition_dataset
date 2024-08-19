@@ -1,1 +1,15 @@
-https://www.kaggle.com/datasets/utkarshsaxenadn/landscape-recognition-image-dataset-12k-images/data
+Dataset Used : Landscape Recognition | Image Dataset | 12k Images
+Link to dataset : 'https://www.kaggle.com/datasets/utkarshsaxenadn/landscape-recognition-image-dataset-12k-images/data'
+Description:-
+The  dataset ‘Landscape Recognition’ is a publicly accessible dataset from Kaggle community and consists of about 12,000 images. It provides a diverse set of images which can be used for research in areas like geography, ecology, and environmental monitoring. The dataset is organised into 3 individual sub-directories consisting of:-
+I)Training Set
+II)Validation Set
+III)Testing Set
+Another directory of tensorflow records is also added to be able to load data using both Image Data Generator and tensorflow records.
+The sub-directories are further classified into 5 classes based upon the land cover types:-
+a)Mountain
+b)Glacier
+c)Forest
+d)Desert
+e)Coast
+The dataset is primarily intended for use in landscape recognition, it can also be used for Transfer learning, reseach on data augmentation etc.
